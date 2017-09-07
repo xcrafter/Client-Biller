@@ -1,0 +1,6 @@
+[
+    {"id":0,"item":"Screw","price":10,"unit":"KG"}, 
+    {"id":1,"item":"Screw 2","price":12,"unit":"KG"},
+    {"id":2,"item":"Screw 3","price":14,"unit":"KG"},
+    {"id":3,"item":"Screw 4","price":16,"unit":"KG"}
+]
